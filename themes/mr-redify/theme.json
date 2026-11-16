@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "themeApiVersion": 1,
-  "id": "github:mrsrosu/cytv-themes:mr-redify",
+  "id": "github:mrsrosu/cytv-themes-mr-redify:mr-redify",
   "title": "mr.redify",
   "description": "Frosted-glass Home with a winter-night wallpaper, an Inputs menu in the header and full weather formats. Derived from Liquid Glass (MIT).",
   "author": {
     "name": "mrsrosu",
     "url": "https://github.com/mrsrosu"
   },
-  "themeVersion": "1.0.1",
+  "themeVersion": "1.0.2",
   "layout": {
     "preset": "dock-grid",
     "columns": 5,
