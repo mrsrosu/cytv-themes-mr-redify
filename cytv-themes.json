@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/mrsrosu/cytv-themes",
+  "themes": [
+    {
+      "id": "github:mrsrosu/cytv-themes:mr-redify",
+      "title": "mr.redify",
+      "themeVersion": "1.0.0",
+      "path": "distributions/mr-redify/1.0.0/cytv-theme.json",
+      "sha256": "cb3d65a690cf1488bec3ebc81ddbdd5694e0cb56507256e88d94cfca693ac2a2"
+    }
+  ]
+}
