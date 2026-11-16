@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "themeApiVersion": 1,
+  "id": "github:mrsrosu/cytv-themes:mr-redify",
+  "title": "mr.redify",
+  "description": "Frosted-glass Home with a winter-night wallpaper, an Inputs menu in the header and full weather formats. Derived from Liquid Glass (MIT).",
+  "author": {
+    "name": "mrsrosu",
+    "url": "https://github.com/mrsrosu"
+  },
+  "themeVersion": "1.0.0",
+  "layout": {
+    "preset": "dock-grid",
+    "columns": 5,
+    "spacingScale": 1,
+    "textScale": 1,
+    "focusScale": 1.1,
+    "allowColumnOverride": true,
+    "motion": "classic",
+    "inputs": "menu",
+    "weather": {
+      "formats": [
+        "text",
+        "current",
+        "details",
+        "forecast"
+      ],
+      "scale": 1,
+      "padding": 24,
+      "icons": "fill"
+    }
+  },
+  "defaults": {
+    "wallpaperAssetId": "wallpaper",
+    "dim": 0,
+    "accent": "#eef3ff"
+  },
+  "assets": [
+    {
+      "id": "wallpaper",
+      "path": "assets/wallpaper.jpg",
+      "mediaType": "image/jpeg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "preview",
+      "path": "assets/preview.jpg",
+      "mediaType": "image/jpeg",
+      "width": 960,
+      "height": 540
+    }
+  ],
+  "previewAssetId": "preview",
+  "license": {
+    "identifier": "MIT",
+    "textPath": "LICENSE.txt",
+    "creditsPath": "CREDITS.txt"
+  }
+}
