@@ -19,7 +19,7 @@ Requires Clean Your TV Home **1.19.0 or newer**.
 If loading the repository address does not work, paste this link into **Add by ID → Load** instead. It points to a fixed commit and never changes:
 
 ```text
-https://raw.githubusercontent.com/mrsrosu/cytv-themes-mr-redify/d68361366b8b2b0a67c63fc1d157ba524f474866/distributions/mr-redify/1.0.1/cytv-theme.json
+https://raw.githubusercontent.com/mrsrosu/cytv-themes-mr-redify/a036a0ed7f67fa5fac202acf9a02b29cc26ade67/distributions/mr-redify/1.0.2/cytv-theme.json
 ```
 
 Installed themes work offline. To remove one, choose **Remove** next to it in Themes (Classic is restored automatically).
