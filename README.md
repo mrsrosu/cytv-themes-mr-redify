@@ -18,4 +18,4 @@ Installed themes work offline. To remove one, choose **Remove** next to it in Th
 
 - Requires Clean Your TV Home 1.19.0 or newer. Built with a candidate (unsigned) author runtime; not tested on every TV model or firmware.
 - Third-party material and licences are listed in `themes/mr-redify/CREDITS.txt`.
-- Styling is MIT (derived from Liquid Glass). **The wallpaper is not covered by the MIT licence; its source and licence status are unverified.**
+- Styling is MIT (derived from Liquid Glass).
