@@ -1,0 +1,4 @@
+Styling derived from the Liquid Glass source theme (CYTV themes, 2026, MIT).
+Wallpaper: image supplied by the theme author (file name: north-star-winter-night-scenery-4k-wallpaper-uhdpaper.com-97@5@k.jpg).
+Preview image: capture of this theme in the author toolkit's browser renderer with reference demo apps.
+Browser preview captures depict reference application icons belonging to their respective owners and supplied by the author toolkit's reference fixture. Original icon files are not distributed separately as replacement theme assets.

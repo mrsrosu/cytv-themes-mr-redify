@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "repository": "https://github.com/mrsrosu/cytv-themes",
+  "repository": "https://github.com/mrsrosu/cytv-themes-mr-redify",
   "themes": [
     {
-      "id": "github:mrsrosu/cytv-themes:mr-redify",
+      "id": "github:mrsrosu/cytv-themes-mr-redify:mr-redify",
       "title": "mr.redify",
-      "themeVersion": "1.0.1",
-      "path": "distributions/mr-redify/1.0.1/cytv-theme.json",
-      "sha256": "5aac60b928c0bfe5f6919e08ea8ef7c9081ff9dee7173de47547b13d4ad0d3af"
+      "themeVersion": "1.0.2",
+      "path": "distributions/mr-redify/1.0.2/cytv-theme.json",
+      "sha256": "5058b80fe65ed713c4ba1b68c4ab3181f91ffa8140e19be285ebb377b76498c0"
     }
   ]
 }
